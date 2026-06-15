@@ -2,7 +2,7 @@
 
 A public learning journal documenting my Python journey. 🚀
 
-This repository serves as my public learning journal where I practice concepts, take notes, experiment with code, solve exercises, and build consistency through daily learning. 🎯
+This repository serves as my public learning journal where I practice concepts, take notes, experiment with code and build consistency through daily learning. 🎯
 
 The goal is not perfection—it's continuous improvement. 📈
 
@@ -43,14 +43,20 @@ Since I have been learning Python for several years, this repository focuses on 
 ## 📂 Repository Structure
 
 ```text
-PythonPractice/
+python-practice-repo/
 │
-├── notebooks/
+├── core_python_and_oop/
 │   ├── day_01.ipynb
 │   ├── day_02.ipynb
 │   ├── day_03.ipynb
 │   └── ...
 │
+├── data_analysis/
+│   ├── day_01.ipynb
+│   ├── day_02.ipynb
+│   ├── day_03.ipynb
+│   └── ...
+|
 ├── .gitattributes
 └── README.md
 
