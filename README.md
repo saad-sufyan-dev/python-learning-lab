@@ -60,9 +60,8 @@ Each notebook may contain:
 
 * 📔 Notes and explanations
 * 💻 Practice code
-* 🏋️‍♂️ Small exercises
 * 🔍 Concept explorations
-* 🛠️ Mini-projects (when applicable)
+* 🏋️‍♂️ Small exercises (when applicable)
 
 ---
 ## 📚 Topics Covered
