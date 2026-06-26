@@ -76,12 +76,13 @@ This repository focuses on strengthening Python beyond the beginner level.
 
 ### 🐍 Core Python
 
-* Functions and Scope
+* Functions and Recursion
 * Modules and Packages
 * File Handling
 * Exception Handling
 * Iterators and Generators
 * Comprehensions
+* Algorithms
 * Functional Programming
 * Testing and Debugging
 
@@ -176,9 +177,9 @@ Every notebook represents another step forward. 👣
 
 ## 👋 About Me
 
-Hi, I'm Saad. 🧑‍💻
+Hi, I'm Saad Sufyan. 🧑‍💻
 
-I'm a student passionate about technology, programming, and lifelong learning. I'm currently focused on building strong Python fundamentals and documenting my journey publicly through GitHub. ✨
+I'm a student passionate about technology, programming, and lifelong learning. I'm currently focused on building strong Python and Data Science fundamentals and documenting my journey publicly through GitHub. ✨
 
 🔗 GitHub: [github.com/saad-sufyan-dev](https://www.google.com/search?q=https://github.com/saad-sufyan-dev)
 
