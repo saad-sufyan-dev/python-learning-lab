@@ -1,15 +1,16 @@
 Transaction ID,Date,Product Category,Product Name,Units Sold,Unit Price,Total Revenue,Region,Payment Method
 10001,1/1/2024,Electronics,Iphone 14 Pro,2,999.99,1999.98,North America,Credit Card
+10001,1/1/2024,Electronics,Iphone 14 Pro,2,999.99,1999.98,North America,Credit Card
 10002,1/2/2024,Home Appliances,Dyson V11 Vacuum,1,,499.99,Europe,PayPal
-10003,1/3/2024,Clothing,Levi's 501 Jeans,3,69.99,209.97,Asia,Debit Card
+10003,,Clothing,Levi's 501 Jeans,3,69.99,209.97,Asia,Debit Card
+10004,1/4/2024,Books,The Da Vinci Code,4,15.99,63.96,,
 10004,1/4/2024,Books,The Da Vinci Code,4,15.99,63.96,North America,
-10004,1/4/2024,Books,The Da Vinci Code,4,15.99,63.96,North America,
-10005,1/5/2024,,Neutrogena Skincare Set,1,89.99,89.99,Europe,PayPal
+10005,,,Neutrogena Skincare Set,1,89.99,89.99,Europe,PayPal
 10006,1/6/2024,Sports,Wilson Evolution Basketball,5,29.99,149.95,Asia,Credit Card
 10007,1/7/2024,Electronics,MacBook Pro 16-inch,1,2499.99,2499.99,North America,Credit Card
 10008,1/8/2024,Home Appliances,Blueair Classic 480i,2,599.99,1199.98,Europe,PayPal
 10009,1/9/2024,Clothing,Nike Air Force 1,6,89.99,539.94,Asia,Debit Card
-10010,1/10/2024,Books,Dune by Frank Herbert,2,25.99,51.98,North America,Credit Card
+,1/10/2024,Books,Dune by Frank Herbert,2,25.99,51.98,North America,Credit Card
 10011,1/11/2024,Beauty Products,Chanel No. 5 Perfume,1,129.99,129.99,Europe,PayPal
 10012,1/12/2024,Sports,Babolat Pure Drive Tennis Racket,3,199.99,599.97,Asia,Credit Card
 10013,1/13/2024,Electronics,Samsung Galaxy Tab S8,2,749.99,1499.98,North America,Credit Card
@@ -35,25 +36,25 @@ Transaction ID,Date,Product Category,Product Name,Units Sold,Unit Price,Total Re
 10033,2/2/2024,Clothing,Under Armour HeatGear T-Shirt,5,29.99,149.95,Asia,Debit Card
 10034,2/3/2024,Books,1984 by George Orwell,4,19.99,79.96,North America,Credit Card
 10035,2/4/2024,Beauty Products,L'Oreal Revitalift Serum,2,39.99,79.98,Europe,PayPal
-10036,2/5/2024,Sports,Peloton Bike,1,1895,1895,Asia,Credit Card
+10036,2/5/2024,Sports,Peloton Bike,1,1895,,Asia,Credit Card
 10037,2/6/2024,Electronics,Apple Watch Series 8,3,399.99,1199.97,North America,Credit Card
 10038,2/7/2024,Home Appliances,Roomba i7+,2,799.99,1599.98,Europe,PayPal
 10039,2/8/2024,Clothing,Columbia Fleece Jacket,4,59.99,239.96,Asia,Debit Card
 10040,2/9/2024,Books,Harry Potter and the Sorcerer's Stone,3,24.99,74.97,North America,Credit Card
 10041,2/10/2024,Beauty Products,Estee Lauder Advanced Night Repair,1,105,105,Europe,PayPal
-10042,2/11/2024,Sports,Fitbit Charge 5,2,129.99,259.98,Asia,Credit Card
+,2/11/2024,Sports,Fitbit Charge 5,2,129.99,259.98,Asia,Credit Card
 10043,2/12/2024,Electronics,GoPro HERO10 Black,3,399.99,1199.97,North America,Credit Card
 10044,2/13/2024,Home Appliances,Nespresso VertuoPlus,1,199.99,199.99,Europe,PayPal
 10045,2/14/2024,Clothing,Patagonia Better Sweater,2,139.99,279.98,Asia,Debit Card
 10046,2/15/2024,Books,Becoming by Michelle Obama,4,32.5,130,North America,Credit Card
-10047,2/16/2024,Beauty Products,Clinique Moisture Surge,1,52,52,Europe,PayPal
+,2/16/2024,Beauty Products,Clinique Moisture Surge,1,52,52,Europe,PayPal
 10048,2/17/2024,Sports,Yeti Rambler Tumbler,6,39.99,239.94,Asia,Credit Card
 10049,2/18/2024,Electronics,Kindle Paperwhite,2,129.99,259.98,North America,Credit Card
 10050,2/19/2024,Home Appliances,Breville Smart Oven,1,299.99,299.99,Europe,PayPal
 10051,2/20/2024,Clothing,Ray-Ban Aviator Sunglasses,3,154.99,464.97,Asia,Debit Card
 10052,2/21/2024,Books,The Silent Patient by Alex Michaelides,2,26.99,53.98,North America,Credit Card
 10053,2/22/2024,Beauty Products,Shiseido Ultimate Sun Protector,1,49,49,Europe,PayPal
-10054,2/23/2024,Sports,Titleist Pro V1 Golf Balls,5,49.99,249.95,Asia,Credit Card
+10054,2/23/2024,Sports,Titleist Pro V1 Golf Balls,5,49.99,,Asia,Credit Card
 10055,2/24/2024,Electronics,Anker PowerCore Portable Charger,4,59.99,239.96,North America,Credit Card
 10056,2/25/2024,Home Appliances,KitchenAid Artisan Stand Mixer,1,499.99,499.99,Europe,PayPal
 10057,2/26/2024,Clothing,Calvin Klein Boxer Briefs,5,29.99,149.95,Asia,Debit Card
@@ -143,15 +144,16 @@ Transaction ID,Date,Product Category,Product Name,Units Sold,Unit Price,Total Re
 10141,5/20/2024,Clothing,Adidas Essential Track Pants,3,44.99,134.97,Asia,Debit Card
 10142,5/21/2024,Books,The Power of Habit by Charles Duhigg,2,11.99,23.98,North America,Credit Card
 10143,5/22/2024,Beauty Products,Clinique Dramatically Different Moisturizing Lotion,1,29.5,29.5,Europe,PayPal
+10143,5/22/2024,Beauty Products,Clinique Dramatically Different Moisturizing Lotion,1,29.5,29.5,Europe,PayPal
 10144,5/23/2024,Sports,YETI Tundra 45 Cooler,1,299.99,299.99,Asia,Credit Card
 10145,5/24/2024,Electronics,Apple AirPods Max,1,549,549,North America,Credit Card
 10146,5/25/2024,Home Appliances,Cuisinart Coffee Center,2,199.95,399.9,Europe,PayPal
-10147,5/26/2024,Clothing,Levi's Sherpa Trucker Jacket,2,98,196,Asia,Debit Card
+10147,5/26/2024,Clothing,Levi's Sherpa Trucker Jacket,2,98,196,Asia,
 10148,5/27/2024,Books,The Outsiders by S.E. Hinton,3,10.99,32.97,North America,Credit Card
 10149,5/28/2024,Beauty Products,Laneige Water Sleeping Mask,1,25,25,Europe,PayPal
-10150,5/29/2024,Sports,Bose SoundSport Wireless Earbuds,2,149.99,299.98,Asia,Credit Card
+10150,,Sports,Bose SoundSport Wireless Earbuds,2,149.99,299.98,Asia,
 10151,5/30/2024,Electronics,Sony WH-1000XM4 Headphones,1,349.99,349.99,North America,Credit Card
-10152,5/31/2024,Home Appliances,Ninja Foodi Pressure Cooker,2,199.99,399.98,Europe,PayPal
+,5/31/2024,,Ninja Foodi Pressure Cooker,2,,399.98,,PayPal
 10153,6/1/2024,Clothing,Nike Sportswear Club Fleece Hoodie,3,54.99,164.97,Asia,Debit Card
 10154,6/2/2024,Books,The Night Circus by Erin Morgenstern,2,16.99,33.98,North America,Credit Card
 10155,6/3/2024,Beauty Products,GlamGlow Supermud Clearing Treatment,1,59,59,Europe,PayPal
@@ -238,6 +240,7 @@ Transaction ID,Date,Product Category,Product Name,Units Sold,Unit Price,Total Re
 10235,8/22/2024,Electronics,Bose QuietComfort 35 II Wireless Headphones,1,299,299,North America,Credit Card
 10236,8/23/2024,Home Appliances,Nespresso Vertuo Next Coffee and Espresso Maker,1,159.99,159.99,Europe,PayPal
 10237,8/24/2024,Clothing,Nike Air Force 1 Sneakers,3,90,270,Asia,Debit Card
-10238,8/25/2024,Books,The Handmaid's Tale by Margaret Atwood,3,10.99,32.97,North America,Credit Card
+10237,8/24/2024,Clothing,Nike Air Force 1 Sneakers,3,90,270,Asia,Debit Card
+,8/25/2024,Books,The Handmaid's Tale by Margaret Atwood,3,10.99,32.97,,Credit Card
 10239,8/26/2024,Beauty Products,Sunday Riley Luna Sleeping Night Oil,1,55,55,Europe,PayPal
-10240,8/27/2024,Sports,Yeti Rambler 20 oz Tumbler,2,29.99,59.98,Asia,Credit Card
+10240,,Sports,Yeti Rambler 20 oz Tumbler,2,29.99,59.98,Asia,Credit Card
