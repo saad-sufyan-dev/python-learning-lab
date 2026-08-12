@@ -320,7 +320,13 @@ The structure is organized primarily around **learning areas**, with each area c
 ```text
 python-learning-lab/
 │
-├── core_python_and_oop/
+├── core_python/
+│   ├── day_01.ipynb
+│   ├── day_02.ipynb
+│   ├── day_03.ipynb
+│   └── ...
+│
+├── OOP/
 │   ├── day_01.ipynb
 │   ├── day_02.ipynb
 │   ├── day_03.ipynb
@@ -333,7 +339,8 @@ python-learning-lab/
 │   └── ...
 │
 ├── machine_learning/
-│   └── ...
+│   └── day_01.ipynb
+|   └── ...
 │
 ├── assets/
 |   └── ...
@@ -352,14 +359,19 @@ The exact structure will evolve as new learning areas are added.
 
 Fundamental and advanced Python concepts used to build strong programming foundations.
 
+* Variables
+* Conditionals
+* Loops
 * Functions and Recursion
-* Modules and Packages
+* Procedural Programming
+* Algorithms
+* Data Structures
+* Comprehensions
+* Functional Programming
 * File Handling
 * Exception Handling
 * Iterators and Generators
-* Comprehensions
-* Functional Programming
-* Algorithms
+* Modules and Packages
 * Testing and Debugging
 
 #### 📦 Object-Oriented Programming
@@ -368,9 +380,11 @@ Understanding how to design and model software using objects.
 
 * Classes and Objects
 * Encapsulation
+* Abstraction
+* Decorators
+* Getters and Setters
 * Inheritance
 * Polymorphism
-* Abstraction
 * Aggregation and Composition
 * Object Relationships
 * Real-World System Design
@@ -383,7 +397,7 @@ Developing the skills required to transform raw data into useful insights.
 * Pandas
 * Data Cleaning
 * Data Transformation
-* Data Manipulation
+* Data Analysis
 * Exploratory Data Analysis
 * Data Visualization
 
