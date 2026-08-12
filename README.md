@@ -1,7 +1,7 @@
 # 🐍 Python Learning Lab
 <div align="center">
 
-<img src="asset/banner.png" alt="Banner Image">
+<img src="assets/banner.png" alt="Banner Image">
 
 > A personal learning system for transforming knowledge into practical skills, projects, and products.
 
