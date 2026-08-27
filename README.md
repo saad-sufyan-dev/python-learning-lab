@@ -321,30 +321,27 @@ The structure is organized primarily around **learning areas**, with each area c
 python-learning-lab/
 │
 ├── core_python/
-│   ├── day_01.ipynb
-│   ├── day_02.ipynb
-│   ├── day_03.ipynb
+│   ├── 01_conditionals.ipynb
 │   └── ...
 │
 ├── OOP/
-│   ├── day_01.ipynb
-│   ├── day_02.ipynb
-│   ├── day_03.ipynb
+│   ├── 01_oop_basics.ipynb
 │   └── ...
 │
 ├── data_analysis/
-│   ├── day_01.ipynb
-│   ├── day_02.ipynb
-│   ├── day_03.ipynb
+│   ├── 01_numpy.ipynb
+│   ├── 02_pandas.ipynb
+│   ├── 03_data_cleaning.ipynb
 │   └── ...
 │
 ├── machine_learning/
-│   └── day_01.ipynb
+│   └── 01_classification.ipynb
 |   └── ...
 │
 ├── assets/
 |   └── ...
 |
+├── requirements.txt
 ├── .gitattributes
 └── README.md
 ```
@@ -406,11 +403,15 @@ Developing the skills required to transform raw data into useful insights.
 Building the foundation required to understand and develop machine learning systems.
 
 * Scikit-Learn
-* Feature Engineering
-* Model Training
-* Model Evaluation
+* Data Preprocessing
+* Supervised ML
 * Classification
 * Regression
+* Model Training
+* Model Evaluation
+* Unsupervised ML
+* Clustering
+* Dimensionality Reduction
 * Machine Learning Experiments
 
 #### 🧠 Artificial Intelligence
@@ -494,6 +495,27 @@ Most practice work is contained in Jupyter Notebooks (`.ipynb`), so having **Jup
 > This repository is primarily a learning resource, so there is no single application to install or run.
 
 ---
+
+## 📦 Requirements
+
+This project uses the following Python libraries:
+
+```text
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
+scikit-learn==1.3.2
+imbalanced-learn==0.11.0
+...
+```
+
+Install them through pip command:
+
+```bash
+pip install -r requirements.txt
+```
 
 ## 🤝 Contributing
 
