@@ -414,16 +414,6 @@ Building the foundation required to understand and develop machine learning syst
 * Dimensionality Reduction
 * Machine Learning Experiments
 
-#### 🧠 Artificial Intelligence
-
-An evolving area focused on understanding and applying modern AI technologies.
-
-* Generative AI
-* AI Applications
-* Retrieval-Augmented Generation
-* AI-Assisted Development
-* AI Product Experiments
-
 #### 🔮 Future Areas
 
 The repository will continue to expand as my learning progresses.
