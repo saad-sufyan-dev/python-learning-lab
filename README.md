@@ -525,6 +525,14 @@ Thoughtful feedback can help improve both the repository and my understanding.
 
 ---
 
+## 📜 License
+
+This project is licensed under the **MIT License**.
+
+See the [`LICENSE`](LICENSE) file for complete details.
+
+---
+
 ## ⭐ Support the Journey
 
 If you find this repository useful, interesting, or helpful for your own learning, consider giving it a **star** ⭐ on GitHub.
