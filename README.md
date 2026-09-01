@@ -342,7 +342,8 @@ python-learning-lab/
 |   └── ...
 |
 ├── requirements.txt
-├── .gitattributes
+├── .gitignore
+├── .LICENSE
 └── README.md
 ```
 
