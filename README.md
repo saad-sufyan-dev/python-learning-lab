@@ -226,7 +226,7 @@ Building projects also exposes gaps in my knowledge, which gives me new topics t
 | Learning Area                  | What I Practiced                                   | What It Led To                      |
 | ------------------------------ | -------------------------------------------------- | ----------------------------------- |
 | 📦 Object-Oriented Programming | Classes, objects, composition, system design       | [CLI E-Commerce Backend](#)         |
-| 📊 Data Analysis               | Pandas, data cleaning, transformation, EDA         | [Superstore Sales Analysis](#)      |
+| 📊 Data Analysis               | Pandas, data cleaning, transformation, EDA, Data Analysis         | [Superstore Sales Analysis](#)      |
 | 🤖 Generative AI               | AI workflows, knowledge organization, RAG concepts | [Knowledge Publishing Assistant](#) |
 
 These projects are not separate from the learning process.
@@ -253,7 +253,7 @@ flowchart LR
 
 ### 📊 Example: Data Analysis → Superstore Sales Analysis
 
-I first practiced data analysis concepts in this repository, including data cleaning, transformation, aggregation, and exploratory analysis.
+I first practiced data analysis concepts in this repository, including data cleaning, transformation, aggregation, and data analysis.
 
 Those skills were then applied to a larger dataset and developed into the **Superstore Sales Analysis** project.
 
@@ -395,8 +395,8 @@ Developing the skills required to transform raw data into useful insights.
 * Pandas
 * Data Cleaning
 * Data Transformation
-* Data Analysis
 * Exploratory Data Analysis
+* Data Analysis
 * Data Visualization
 
 #### 🤖 Machine Learning
@@ -404,12 +404,9 @@ Developing the skills required to transform raw data into useful insights.
 Building the foundation required to understand and develop machine learning systems.
 
 * Scikit-Learn
-* Data Preprocessing
 * Supervised ML
 * Classification
 * Regression
-* Model Training
-* Model Evaluation
 * Unsupervised ML
 * Clustering
 * Dimensionality Reduction
