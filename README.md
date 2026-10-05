@@ -357,16 +357,18 @@ The exact structure will evolve as new learning areas are added.
 
 Fundamental and advanced Python concepts used to build strong programming foundations.
 
-* Variables
+* Variables and Data Types
+* Operators
+* Lists and Tuples
+* Comprehensions
+* Dictionaries and Sets
 * Conditionals
 * Loops
 * Functions and Recursion
+* File I/O
 * Procedural Programming
 * Algorithms
-* Data Structures
-* Comprehensions
 * Functional Programming
-* File Handling
 * Exception Handling
 * Iterators and Generators
 * Modules and Packages
@@ -404,6 +406,8 @@ Developing the skills required to transform raw data into useful insights.
 Building the foundation required to understand and develop machine learning systems.
 
 * Scikit-Learn
+* Data Preprocessing
+* Data Balancing
 * Supervised ML
 * Classification
 * Regression
