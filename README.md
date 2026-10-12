@@ -360,18 +360,18 @@ Fundamental and advanced Python concepts used to build strong programming founda
 * Variables and Data Types
 * Operators
 * Lists and Tuples
-* Comprehensions
 * Dictionaries and Sets
 * Conditionals
 * Loops
+* Comprehensions
+* Modules and Packages
 * Functions and Recursion
-* File I/O
 * Procedural Programming
 * Algorithms
 * Functional Programming
+* File I/O
 * Exception Handling
 * Iterators and Generators
-* Modules and Packages
 * Testing and Debugging
 
 #### 📦 Object-Oriented Programming
